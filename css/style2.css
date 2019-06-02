@@ -286,8 +286,6 @@ section {
 } 
 
 @media screen and (max-width: 520px) {
-	
-	
 	.nav-one{
 		flex-direction: column;
 	}
